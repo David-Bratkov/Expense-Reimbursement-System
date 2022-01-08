@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(94, 89, 83)!important;
+} 
+
+
+.form-container {
+    display: flex;
+    justify-content: center;
+}
+
+.Login-Container {
+   
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+   padding: 10px;
+}
+
+#login-title {
+    display: flex;
+    justify-content: center;
+}
+
+.login-form {
+    background-color: rgb(209, 209, 209); 
+    padding: 10px;
+    margin-top: 300px;
+    width: 400px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 8px rgb(0, 0, 0);
+
+}
+
+.inputs {
+    border-radius: 2px;
+    padding: 2px;
+    margin: 5px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: right;
+    padding: 5px;
+    width: 100%;
+}

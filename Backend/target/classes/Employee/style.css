@@ -1,0 +1,35 @@
+#reimbursement-container {
+    margin-left: 30%;
+}
+
+/* .center-please {
+    display: flex;
+    justify-content: center;
+} */
+
+.card {
+    box-shadow: 4px 4px 4px rgb(78, 78, 78);
+    margin-top: 50px;
+    width: 70%;
+}
+
+.card-header {
+    display: flex;
+    justify-content: center;
+}
+
+.card-text div{
+    padding: 4px;
+    border-radius: 8px;
+    background-color: rgb(197, 197, 197);
+    margin: 4px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;   
+}
+
+body {
+    background-color: rgb(158, 154, 154)!important;
+}
