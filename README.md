@@ -29,7 +29,7 @@ git clone https://github.com/David-Bratkov/Expense-Reimbursement-System.git
 > Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
 
 ## PostgreSQL DBever Database Script Commands:
-
+```
 CREATE TABLE ERS_REIMBURSEMENT (
 	REIMB_ID serial PRIMARY KEY NOT NULL,
 	REIMB_AMOUNT decimal(30, 2) NOT NULL,
@@ -86,3 +86,4 @@ INSERT INTO ers_reimbursement_type VALUES (DEFAULT, 'OTHER');
 INSERT INTO ers_reimbursement_status VALUES (DEFAULT, 'Pending');
 INSERT INTO ers_reimbursement_status VALUES (DEFAULT, 'Accepted');
 INSERT INTO ers_reimbursement_status VALUES (DEFAULT, 'Rejected');
+```
