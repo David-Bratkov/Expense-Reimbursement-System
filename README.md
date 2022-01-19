@@ -13,20 +13,22 @@ The Expense Reimbursement System will manage the process of reimbursing employee
 * PostgreSQL
 * AWS RDS
 * AWS S3
+* InteliJ
 
 ## Getting Started
    
 git clone https://github.com/David-Bratkov/Expense-Reimbursement-System.git
 
+open up the backend in InteliJ start running Main
+
+open up selenium with another window in InteliJ and make sure the backend is running first before running Main
+
 ## Windows CMD Enviroment Variables Setup
 
-> There are 2 enviroment variables used in this project
-> 
-
-(include all environment setup steps)
-
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+> There are 3 enviroment variables used in this project
+> AWS_RDS_ENDPOINT - The end point needed to connect to the database
+> RDS_USERNAME - The username needed to log into the database
+> RDS_PASSWORD - The password assosiated with the username for the database
 
 ## PostgreSQL DBever Database Script Commands:
 ```
