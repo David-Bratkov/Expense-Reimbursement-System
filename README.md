@@ -20,7 +20,7 @@ git clone https://github.com/David-Bratkov/Expense-Reimbursement-System.git
 
 ## Windows CMD Enviroment Variables Setup
 
-> There are 2 evnviroment variables used in this project
+> There are 2 enviroment variables used in this project
 > 
 
 (include all environment setup steps)
