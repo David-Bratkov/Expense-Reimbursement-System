@@ -23,7 +23,7 @@ open up the backend in InteliJ start running Main
 
 open up selenium with another window in InteliJ and make sure the backend is running first before running Main
 
-## Windows CMD Enviroment Variables Setup
+## Enviroment Variables Setup
 
 > There are 3 enviroment variables used in this project
 > AWS_RDS_ENDPOINT - The end point needed to connect to the database
