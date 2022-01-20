@@ -26,6 +26,7 @@ open up selenium with another window in InteliJ and make sure the backend is run
 ## Enviroment Variables Setup
 
 > There are 3 enviroment variables used in this project
+
 > AWS_RDS_ENDPOINT - The end point needed to connect to the database
 > RDS_USERNAME - The username needed to log into the database
 > RDS_PASSWORD - The password assosiated with the username for the database
