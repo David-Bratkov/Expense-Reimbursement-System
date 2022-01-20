@@ -11,8 +11,6 @@ The Expense Reimbursement System will manage the process of reimbursing employee
 * JavaScript
 * Java
 * PostgreSQL
-* AWS RDS
-* AWS S3
 * InteliJ
 
 ## Getting Started
